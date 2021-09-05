@@ -24,6 +24,6 @@ Mern Stack developer⚒️
 
 ## ☎️ Let's Connect
 
-- **Twitter:** 
-- **Discord:** 
-- **Personal Blog:** 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dcr-7978993d/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/DChandanaReddy1)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/chandana_reddy.07/)
