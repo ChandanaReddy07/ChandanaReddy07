@@ -15,7 +15,7 @@ I am currently studying in IIIT Bhubaneswar</li>
 <li>
 Mern Stack developer⚒️
 </li>
-<li>Competetive Programmer
+<li>Competitive Programmer
 </ul>
 
 ## 🛠️ **Languages & Tools:**
