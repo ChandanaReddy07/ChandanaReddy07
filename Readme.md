@@ -28,7 +28,7 @@ Mern Stack developer⚒️
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/DChandanaReddy1)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/chandana_reddy.07/)
 
-| ![Github Stats](https://github-readme-stats.vercel.app/api?username=ChandanaReddy07&count_private=true&show_icons=true&include_all_commits=true&theme=midnight-blue)         | ![my skills](https://github-readme-stats.vercel.app/api/top-langs/?username=ChandanaReddy07&hide=TeX&theme=midnight-blue)              |
+| ![Github Stats](https://github-readme-stats.vercel.app/api?username=ChandanaReddy07&count_private=true&show_icons=true&include_all_commits=true&theme=midnight-purple)         | ![my skills](https://github-readme-stats.vercel.app/api/top-langs/?username=ChandanaReddy07&hide=TeX&theme=midnight-purple)              |
 | --------------------- | ------------------------- |
 
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=ChandanaReddy07&theme=react-dark" />
