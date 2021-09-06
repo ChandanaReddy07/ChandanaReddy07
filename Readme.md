@@ -11,7 +11,7 @@
 
 <ul>
 <li>
-I am currently studying in IIIT Bhubaneswar</li>
+I am currently studying at IIIT Bhubaneswar</li>
 <li>
 Mern Stack developer⚒️
 </li>
