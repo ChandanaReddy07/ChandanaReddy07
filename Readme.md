@@ -7,6 +7,8 @@
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 </br>
 
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ChandanaReddy07.ChandanaReddy07) 
+
 ## **About Me**
 
 <ul>
