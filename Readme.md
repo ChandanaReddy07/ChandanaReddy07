@@ -37,6 +37,6 @@ Mern Stack developer⚒️
 
 
 ## buy me a coffee
-<p><a href="https://www.buymeacoffee.com/chandu007"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chandu007" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/gitodo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chandu007" /></a></p><br><br>
 
 
