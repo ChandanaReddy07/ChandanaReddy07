@@ -4,7 +4,7 @@
 </p>
 
 </br>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/724GcSNZPXEAAAAd/kaori-makimura-city-hunter.gif">
+<img align="right" alt="Coding" width="100" src="https://c.tenor.com/724GcSNZPXEAAAAd/kaori-makimura-city-hunter.gif">
 </br>
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ChandanaReddy07.ChandanaReddy07) 
