@@ -4,7 +4,7 @@
 </p>
 
 </br>
-<img align="right" alt="Coding" width="500" src="https://cdn.anisearch.com/images/character/cover/full/5/5532.webp">
+<img align="right" alt="Coding" width="200" src="https://cdn.anisearch.com/images/character/cover/full/5/5532.webp">
 </br>
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ChandanaReddy07.ChandanaReddy07) 
