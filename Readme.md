@@ -1,8 +1,8 @@
 <h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Chandana Reddy</h1>
-<p align="center">
+<!-- <p align="center">
   MERN stack developer
 </p>
-
+ -->
 </br>
 <!-- <img align="right" alt="Coding" width="200" src="https://cdn.anisearch.com/images/character/cover/full/5/5532.webp"> -->
 </br>
