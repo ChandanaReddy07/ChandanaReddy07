@@ -35,7 +35,7 @@ Mern Stack developer⚒️
 
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=ChandanaReddy07&theme=react-dark" />
 
-![Spotify](https://spotify-readme123.vercel.app/api/spotify-playing)
+<!-- ![Spotify](https://spotify-readme123.vercel.app/api/spotify-playing) -->
 
 ## buy me a coffee
 <p><a href="https://www.buymeacoffee.com/chandu07"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chandu007" /></a></p><br><br>
