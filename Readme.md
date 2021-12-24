@@ -35,7 +35,7 @@ Mern Stack developer⚒️
 
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=ChandanaReddy07&theme=react-dark" />
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=316xdrzidluzl4jgxpymgiry6fhi&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=316xdrzidluzl4jgxpymgiry6fhi&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=37i9dQZEVXcDr8VCEr2JYG&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=316xdrzidluzl4jgxpymgiry6fhi&redirect=true)
 
 ## buy me a coffee
 <p><a href="https://www.buymeacoffee.com/chandu07"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chandu007" /></a></p><br><br>
