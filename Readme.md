@@ -37,19 +37,6 @@ Mern Stack developer⚒️
 
 ![Spotify](https://ch4444.vercel.app/api/spotify-playing)
 
-## Interesting fact about me
-<ul>
-<li>
-Memes are my happy place.</li>
-
-<li>Quotes are my safe place.
-  </li>
-  <li>Being weird is lit !
-  </li>
-  <li>
-That's about it :)
-</li>
-</ul>
 
 ## buy me a coffee
 <p><a href="https://www.buymeacoffee.com/chandu07"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chandu007" /></a></p><br><br>
