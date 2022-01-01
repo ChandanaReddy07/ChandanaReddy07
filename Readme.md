@@ -40,4 +40,10 @@ Mern Stack developer⚒️
 ## buy me a coffee
 <p><a href="https://www.buymeacoffee.com/chandu07"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chandu007" /></a></p><br><br>
 
+## Interesting fact about me
+Memes are my happy place.
+Quotes are my safe place.
+Being weird is lit !
+That's about it :)
+
 
