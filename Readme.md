@@ -26,9 +26,14 @@ Mern Stack developer⚒️
 
 ## ☎️ Let's Connect
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dcr-7978993d/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/DChandanaReddy1)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/chandana_reddy.07/)
+<a href="https://twitter.com/DChandanaReddy1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jhab53226711" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dcr-7978993d/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dcr-7978993d/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/chandana_reddy.07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="code_blodded" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/monuoppa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="monuoppa" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ironchandana14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ironchandana14" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ironchandana14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ironchandana14" height="30" width="40" /></a>
+<a href="https://discord.gg/Chandana Reddy#3650" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Chandana Reddy#3650" height="30" width="40" /></a>
+</p>
 
 <!-- | ![Github Stats](https://github-readme-stats.vercel.app/api?username=ChandanaReddy07&count_private=true&show_icons=true&include_all_commits=true&theme=nightowl)         | ![my skills](https://github-readme-stats.vercel.app/api/top-langs/?username=ChandanaReddy07&hide=TeX&theme=nightowl)              |
 | --------------------- | ------------------------- | -->
