@@ -34,7 +34,7 @@ Mern Stack developer⚒️
 <a href="https://auth.geeksforgeeks.org/user/ironchandana14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ironchandana14" height="30" width="40" /></a>
 <a href="https://discord.gg/Chandana Reddy#3650" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Chandana Reddy#3650" height="30" width="40" /></a>
 </p> -->
-<div align="center">
+<div >
  <a href="ironchandana14@gmail.com"><img align="center" src="https://img.icons8.com/doodle/50/000000/gmail.png" alt="Gmail" width="42" height="42"/></a>
   <a href="https://www.linkedin.com/in/dcr-7978993d/" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/linkedin.png"  alt="LinkedIn" width="42" height="42"/></a>
   <a href="https://www.instagram.com/chandana_reddy.07/" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/instagram.png" alt="Instagram" width="42" height="42"/> </a>
