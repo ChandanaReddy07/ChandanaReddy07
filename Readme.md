@@ -13,7 +13,7 @@
 
 <ul>
 <li>
-I am currently studying at IIIT Bhubaneswar</li>
+I am currently working at Tensorgo as a Full Stack Engineer</li>
 <li>
 Mern Stack developer⚒️
 </li>
