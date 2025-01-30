@@ -41,12 +41,10 @@ Mern Stack developer⚒️
   <a href="https://twitter.com/DChandanaReddy1" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/twitter.png" alt="Twitter" width="42" height="42"/></a>
   </div>
 
-<!-- | ![Github Stats](https://github-readme-stats.vercel.app/api?username=ChandanaReddy07&count_private=true&show_icons=true&include_all_commits=true&theme=nightowl)         | ![my skills](https://github-readme-stats.vercel.app/api/top-langs/?username=ChandanaReddy07&hide=TeX&theme=nightowl)              |
-| --------------------- | ------------------------- | -->
-
+<!-- | ![Github Stats](https://github-readme-stats.vercel.app/api?username=ChandanaReddy07&count_private=true&show_icons=true&include_all_commits=true&theme=nightowl)         | ![my skills](https://github-readme-stats.vercel.app/api/top-langs/?username=ChandanaReddy07&hide=TeX&theme=nightowl)              
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=ChandanaReddy07&theme=react-dark" />
 
-![Spotify](https://ch4444.vercel.app/api/spotify-playing)
+![Spotify](https://ch4444.vercel.app/api/spotify-playing) -->
 
 
 ## buy me a coffee
