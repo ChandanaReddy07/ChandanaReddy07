@@ -12,12 +12,10 @@
 ## **About Me**
 
 <ul>
-<li>
-I am currently working at Tensorgo as a Full Stack Engineer</li>
-<li>
-Mern Stack developer⚒️
-</li>
-<li>Competitive Programmer
+  <li>Currently working at Intangles as a Backend Engineer</li>
+  <li>1.5 years of experience as a Full Stack Developer (previously at Tensorgo)</li>
+  <li>MERN Stack Developer ⚒️</li>
+  <li>Competitive Programmer</li>
 </ul>
 
 ## 🛠️ **Languages & Tools:**
